@@ -1,0 +1,7 @@
+C:\Users\qwertyu\Desktop\Лаби С#\Lab2\Lab2\bin\Debug\Lab2.exe.config
+C:\Users\qwertyu\Desktop\Лаби С#\Lab2\Lab2\bin\Debug\Lab2.exe
+C:\Users\qwertyu\Desktop\Лаби С#\Lab2\Lab2\bin\Debug\Lab2.pdb
+C:\Users\qwertyu\Desktop\Лаби С#\Lab2\Lab2\obj\Debug\Lab2.csprojAssemblyReference.cache
+C:\Users\qwertyu\Desktop\Лаби С#\Lab2\Lab2\obj\Debug\Lab2.csproj.CoreCompileInputs.cache
+C:\Users\qwertyu\Desktop\Лаби С#\Lab2\Lab2\obj\Debug\Lab2.exe
+C:\Users\qwertyu\Desktop\Лаби С#\Lab2\Lab2\obj\Debug\Lab2.pdb
